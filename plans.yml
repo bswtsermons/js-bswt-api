@@ -1,0 +1,13 @@
+1. Source Control: GitHub (bswtsermons)
+2. OS: Linux (docker)
+2. Build: ? (npm? make? bash?)
+3. App Architecture:
+  a. API
+    - Code: Node JS
+      - Express?
+    - Storage: AWS DynamoDB?
+    - Security: OpenID?
+  c. Sermons GUI
+  - ReactJS
+3. Source Controle
+3. Build: Github builds?

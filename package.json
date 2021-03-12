@@ -1,0 +1,22 @@
+{
+  "name": "js-bswt-api",
+  "version": "1.0.0",
+  "description": "NodeJS implementation of the BSWT API.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bswtsermons/js-bswt-api.git"
+  },
+  "author": "Thomas B. Holdren <tbholdren@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bswtsermons/js-bswt-api/issues"
+  },
+  "homepage": "https://github.com/bswtsermons/js-bswt-api#readme"
+}
