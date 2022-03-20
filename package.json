@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "NodeJS implementation of the BSWT API.",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "test": "test"
   },
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/bswtsermons/js-bswt-api/issues"
   },
-  "homepage": "https://github.com/bswtsermons/js-bswt-api#readme"
+  "homepage": "https://github.com/bswtsermons/js-bswt-api#readme",
+  "dependencies": {
+    "16": "^0.0.2",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
 }
